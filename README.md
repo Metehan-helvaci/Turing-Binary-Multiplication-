@@ -16,5 +16,6 @@ Test Örnekleri
 <img width="300" height="689" alt="Ekran Resmi 2026-05-24 13 56 16" src="https://github.com/user-attachments/assets/55885de3-e216-44cd-9992-98ebaffe0086" />
 
 Örnek 3 :
-<img width="294" height="764" alt="Ekran Resmi 2026-05-24 14 02 02" src="https://github.com/user-attachments/assets/53413dec-ac1b-44b2-be63-f85f5044b294" />
-<img width="281" height="652" alt="Ekran Resmi 2026-05-24 14 02 20" src="https://github.com/user-attachments/assets/a0fa2083-53ae-478b-b15d-15810a79be54" />
+
+<img width="294" height="700" alt="Ekran Resmi 2026-05-24 14 02 02" src="https://github.com/user-attachments/assets/53413dec-ac1b-44b2-be63-f85f5044b294" />
+<img width="281" height="700" alt="Ekran Resmi 2026-05-24 14 02 20" src="https://github.com/user-attachments/assets/a0fa2083-53ae-478b-b15d-15810a79be54" />
